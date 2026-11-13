@@ -1,0 +1,33 @@
+[submodule "Vendors"]
+	path = Vendors
+	url = git@github.com:CopperSlab07/common-vendors
+[submodule "Tools/w64devkit"]
+	path = Tools/w64devkit
+	url = git@github.com:skeeto/w64devkit.git
+[submodule "Tools/tinycc-mirror-repository"]
+	path = Tools/tinycc-mirror-repository
+	url = git@github.com:Tiny-C-Compiler/tinycc-mirror-repository.git
+[submodule "Tools/Odin"]
+	path = Tools/Odin
+	url = git@github.com:odin-lang/Odin.git
+[submodule "Tools/lua"]
+	path = Tools/lua
+	url = git@github.com:lua/lua.git
+[submodule "Tools/terminal"]
+	path = Tools/terminal
+	url = git@github.com:microsoft/terminal.git
+[submodule "Tools/rfxgen"]
+	path = Tools/rfxgen
+	url = git@github.com:raysan5/rfxgen
+[submodule "Tools/rguilayout"]
+	path = Tools/rguilayout
+	url = git@github.com:raysan5/rguilayout
+[submodule "Tools/rguistyler"]
+	path = Tools/rguistyler
+	url = git@github.com:raysan5/rguistyler
+[submodule "Editors/Emacs/.emacs.local/simpc-mode"]
+	path = Editors/Emacs/.emacs.local/simpc-mode
+	url = git@github.com:rexim/simpc-mode.git
+[submodule "Utils"]
+	path = Utils
+	url = git@github.com:CopperSlab07/copper-utils
